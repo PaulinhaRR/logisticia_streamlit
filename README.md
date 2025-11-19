@@ -36,6 +36,7 @@ seu_projeto/
 ├── requirements.txt
 └── README.md
 
+---
 
 ## 🧰 Tecnologias usadas
 
