@@ -17,6 +17,7 @@ Este repositório apresenta:
 - Dataset sintético usado (`logistica_5000.csv`)
 
 ## 📁 Estrutura do repositório
+```bash
 
 seu_projeto/
 │
