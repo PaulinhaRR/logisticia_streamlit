@@ -18,18 +18,23 @@ Este repositório apresenta:
 
 ## 📁 Estrutura do repositório
 
-projeto_logistica/
-├─ data/
-│ ├─ logistica_5000.csv
-│ └─ logistica_5000.parquet # (opcional: versão otimizada)
-├─ notebook/
-│ └─ eda_logistica.ipynb
-├─ app/
-│ └─ app.py # Streamlit dashboard
-├─ scripts/
-│ └─ preprocess.py # script para gerar parquet e colunas
-├─ requirements.txt
-└─ README.md
+seu_projeto/
+│
+├── app/
+│   └── app.py
+│
+├── data/
+│   └── logistica_5000.csv
+│
+├── notebook/
+│   └── eda_logistica.ipynb
+│
+├── .streamlit/
+│   └── app.yaml   ← (arquivo de configuração)
+│
+├── requirements.txt
+└── README.md
+
 
 ## 🧰 Tecnologias usadas
 
